@@ -1,3 +1,3 @@
-:heart: ice cream
+-:heart: ice cream
 
-# :heart: cars
+-:heart: cars
